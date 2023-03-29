@@ -1,9 +1,8 @@
-@font-face {
-    font-family: FuenteKitty;
-    src: url("fonts/Kitty.ttf")
+
+.bg-miClase{
+    color: rgb(107, 64, 7);
 }
 
-a{
-    font-family: FuenteKitty;
+#colorLHeader{
+    color: brown;
 }
-
