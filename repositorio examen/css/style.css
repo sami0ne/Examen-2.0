@@ -1,0 +1,9 @@
+@font-face {
+    font-family: FuenteKitty;
+    src: url("fonts/Kitty.ttf")
+}
+
+a{
+    font-family: FuenteKitty;
+}
+
